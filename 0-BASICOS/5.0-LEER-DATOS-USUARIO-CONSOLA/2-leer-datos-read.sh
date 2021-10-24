@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#Programa para simplificar  como capturar la información del usuario utilizando el 
+#Programa para simplificar  como capturar la información del usuario utilizando el comando 
+#echo, read y $REPLY
+
 #Autor: DIY
 
 option=0
